@@ -67,9 +67,11 @@ body {
 
 }
 
-#jobTitle{
-  animation: blinker 6s linear infinite;
-}
+ #jobTitle{
+   
+  animation: blinker 6s linear infinite; 
+  
+  }  
 
 @keyframes blinker {
   70%{
